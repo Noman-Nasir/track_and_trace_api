@@ -1,0 +1,10 @@
+fastapi
+aiohttp
+pytz
+cachetools
+SQLAlchemy
+psycopg2
+alembic
+python-dotenv
+httpx
+pytest
